@@ -1,9 +1,9 @@
 ### Olá sou o Paulo Roberto! 👋
 
-Trabalho atualmente com Design Gráfico.
-Sou formado em Ciência da Computação - Bacharelado, pela faculdade UNISINOS.
+Atualmente, trabalho como Designer Gráfico.
+Sou Bacharel em Ciência da Computação pela UNISINOS e tenho experiência em trabalhos que envolvem HTML, CSS, JavaScript, PHP e MySQL.
 Já fiz alguns trabalhos utilizando HTML, CSS, JavaScript, PHP e MySQL.
-#### Quero voltar para área de programação como desenvolvedor Front-end. Sou uma pessoa criativa, com boa comunicação, capacidade de resolver problemas, organizado e tenho conhecimentos em design.
+#### Meu objetivo é voltar para a área de programação como desenvolvedor Front-end. Além de ser uma pessoa criativa e comunicativa, tenho habilidade em solucionar problemas, sou organizado e possuo conhecimentos em design que me ajudam a ter uma visão mais ampla e abrangente do desenvolvimento de projetos.
 
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
